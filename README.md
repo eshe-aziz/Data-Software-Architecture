@@ -7,6 +7,6 @@ Tuples are built-in tuples data structures used to store collections of elements
 ## Stacks
 A stack is a linear data structure that uses the Last-In-First-Out (LIFO) principle, which states that the last thing added to the stack is the first to be removed. Typical stack operations include push, pop, peek, and testing to see if the stack is empty. These operations allow you to add and remove elements from the top of the stack, as well as view the top element without removing it. Stack data structures are commonly utilized in a variety of applications, including expression evaluation, backtracking, and memory management.
 
-##Queues
+## Queues
 A queue is a linear data structure that operates on the First-In-First-Out (FIFO) principle, which means that the first element added to the queue is the first to be deleted. Queues are widely utilized in a variety of applications, including computer networks, operating systems, and messaging systems.
 
