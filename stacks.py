@@ -10,6 +10,3 @@ print(stack)
 my_stack = ['Kenya', 'Uganda', 'Rwanda', 'Zambia', 'Zimbabwe']
 print(my_stack[2])
 
-# removing item in a stack
-stack.pop(100)
-print(stack)
